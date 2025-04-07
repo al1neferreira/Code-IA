@@ -39,8 +39,3 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 - **[Lombok](https://projectlombok.org)**
 
 ---
-
-## 📝 Licença
-
-Projeto utilizado nos cursos de Spring Boot.
----
